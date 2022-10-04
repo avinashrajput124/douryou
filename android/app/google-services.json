@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "494549613164",
+    "project_id": "douyouapp",
+    "storage_bucket": "douyouapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494549613164:android:24d3018388c206a1d1f649",
+        "android_client_info": {
+          "package_name": "com.douryou"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494549613164-vdes0ib261tblu98pn1se38hir2d6qe8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.douryou",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "494549613164-73h72e5igmv5li61bg7jal05ugpkovnh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb2T_m4iL4VJjAfru0o_IO1nUDALw3uNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494549613164-73h72e5igmv5li61bg7jal05ugpkovnh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
